@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "34359518566",
+    "firebase_url": "https://iotapp-86fc2-default-rtdb.firebaseio.com",
+    "project_id": "iotapp-86fc2",
+    "storage_bucket": "iotapp-86fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34359518566:android:38ebdb5714b9f28c5654a7",
+        "android_client_info": {
+          "package_name": "com.bsuir.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34359518566-h6lft5jt4slk79gvteicsmotsg00uhqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjF_oB7cEewdXjVu9fHDnh_u1bPlHGQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34359518566-h6lft5jt4slk79gvteicsmotsg00uhqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34359518566:android:263e6069218a020c5654a7",
+        "android_client_info": {
+          "package_name": "com.bsuir.ticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34359518566-h6lft5jt4slk79gvteicsmotsg00uhqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjF_oB7cEewdXjVu9fHDnh_u1bPlHGQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34359518566-h6lft5jt4slk79gvteicsmotsg00uhqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34359518566:android:acd1ea44c33ff32d5654a7",
+        "android_client_info": {
+          "package_name": "com.quintus.labs.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34359518566-h6lft5jt4slk79gvteicsmotsg00uhqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjF_oB7cEewdXjVu9fHDnh_u1bPlHGQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34359518566-h6lft5jt4slk79gvteicsmotsg00uhqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
